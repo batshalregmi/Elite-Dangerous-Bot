@@ -1,0 +1,7 @@
+discord.py
+uvloop
+black
+python-dotenv
+motor[srv]
+cprint
+colorama
